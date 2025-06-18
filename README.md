@@ -16,9 +16,22 @@ Make sure you have the latest version of **Python** installed on your machine.
    ```bash
    cd <project-directory>
 
-3. **Install required dependencies**
+3. **Install Flask & required dependencies**
+   ```bash
+   pip install flask
+   ```
+
+   ```bash
+   pip install flask-login
+   ```
+
+   ```bash
+   pip install flask-sqlalchemy
+   ```
+   
    ```bash
    pip install -r requirements.txt
+   ```
 
 ## 🛠 Running The App
 
