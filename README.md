@@ -23,12 +23,12 @@ Make sure you have the latest version of **Python** installed on your machine.
 ## 🛠 Running The App
 
 To start the Flask application, run:
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ## 🌍 Viewing The App
 Once the app is running, open your web browser and go to:
-```
+   ```
    http://127.0.0.1:5000
-```
+   ```
