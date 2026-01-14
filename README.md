@@ -1,6 +1,6 @@
 # Notes-Management-System
 
-This project is a simple Flask web application designed for learning and demonstration purposes.
+This project is a simple Flask web application designed for learning and demonstration purposes.....
 
 ## 📦 Setup & Installation
 
